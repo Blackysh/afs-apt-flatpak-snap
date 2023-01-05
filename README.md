@@ -8,8 +8,7 @@
 
 ## About <a name = "about"></a>
 
-This is a simple command line tool you can use to install Apt/Flatpak/Snaps from one place, Prefers to install using apt         
-but installs flatpak if no package of that name is found. Installs snap if neither apt nor flatpak is found.                 
+This is a simple command line tool you can use to install Apt/Flatpak/Snaps from one place, Prefers to install using apt but installs flatpak if no package of that name is found. Installs snap if neither apt nor flatpak is found.                 
 
 ## Installing <a name = "installing"></a>
 
