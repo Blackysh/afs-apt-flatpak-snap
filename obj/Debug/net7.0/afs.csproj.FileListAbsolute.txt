@@ -1,0 +1,15 @@
+/home/sahib/Developerment/C#/afs/bin/Debug/net7.0/afs
+/home/sahib/Developerment/C#/afs/bin/Debug/net7.0/afs.deps.json
+/home/sahib/Developerment/C#/afs/bin/Debug/net7.0/afs.runtimeconfig.json
+/home/sahib/Developerment/C#/afs/bin/Debug/net7.0/afs.dll
+/home/sahib/Developerment/C#/afs/bin/Debug/net7.0/afs.pdb
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.csproj.AssemblyReference.cache
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.GeneratedMSBuildEditorConfig.editorconfig
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.AssemblyInfoInputs.cache
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.AssemblyInfo.cs
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.csproj.CoreCompileInputs.cache
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.dll
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/refint/afs.dll
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.pdb
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/afs.genruntimeconfig.cache
+/home/sahib/Developerment/C#/afs/obj/Debug/net7.0/ref/afs.dll

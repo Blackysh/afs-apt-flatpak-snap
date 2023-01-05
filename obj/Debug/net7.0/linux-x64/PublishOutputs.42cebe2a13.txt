@@ -1,0 +1,2 @@
+/home/sahib/Developerment/C#/afs/bin/Debug/net7.0/linux-x64/publish/afs.pdb
+/home/sahib/Developerment/C#/afs/bin/Debug/net7.0/linux-x64/publish/afs
