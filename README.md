@@ -1,5 +1,5 @@
 # AFS (Apt Flatpak Snap Installer)
-
+Tutorial/How to use - https://www.youtube.com/watch?v=MvRxPc7FYJw&t=4s
 ## Table of Contents
 
 - [About](#about)
